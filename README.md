@@ -28,5 +28,6 @@ pip install -r requirements.txt
 ## notice
 i will not be working on this project anymore so please dont expect changes or response to issues, unless it stops working on my machine of course  
 i dont think that will change man im busy  
-also i only decided to make this as my laptop's internal mic isn't detected, and i thought it would be funny to use the mic of my n2ds
+also i only decided to make this as my laptop's internal mic isn't detected in linux, and i thought it would be funny to use the mic of my n2ds instead
+
 
