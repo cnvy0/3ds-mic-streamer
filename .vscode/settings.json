@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "inet.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "3ds.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "chrono": "c",
+        "deque": "c",
+        "forward_list": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "hash_set": "c",
+        "flat_map": "c",
+        "flat_set": "c",
+        "format": "c",
+        "generator": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "span": "c",
+        "stacktrace": "c",
+        "text_encoding": "c",
+        "regex": "c",
+        "valarray": "c"
+    }
+}
