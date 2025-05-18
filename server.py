@@ -7,7 +7,7 @@ UDP_PORT = 12334
 MIC_SAMPLE_RATE = 16360
 OUTPUT_RATE = 48000
 CHANNELS = 2
-DEVICE_NAME = "VirtualMic"
+DEVICE_NAME = "3DSMic"
 
 p = pyaudio.PyAudio()
 
