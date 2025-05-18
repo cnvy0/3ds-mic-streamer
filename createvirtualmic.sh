@@ -8,5 +8,5 @@ if [ -f /tmp/virtual_mic_module_id ]; then
 fi
 
 # create new module
-module_id=$(pactl load-module module-null-sink sink_name=virtual_mic sink_properties=device.description="VirtualMic")
+module_id=$(pactl load-module module-null-sink sink_name=virtual_mic sink_properties=device.description="3DSMic")
 echo $module_id > /tmp/virtual_mic_module_id
